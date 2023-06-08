@@ -1,0 +1,33 @@
+h3{
+    font-family: 'Noto Sans JP';
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 46px;
+    text-align: center;
+    color: #fff;
+    background: #462703e6;
+    margin-bottom: 4rem;
+}
+
+.form-group{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 0 0 2rem;
+    padding-right: 2rem;
+    font-size: 12px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.label-req{
+display: inline;
+    padding: 0.2em 0.6em 0.3em;
+    border-radius: 0.25em;
+    background-color: #ea4b94;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    font-size: 8px;
+}
